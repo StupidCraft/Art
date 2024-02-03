@@ -1,1 +1,1 @@
-Copyright (c) 2020-2024 StupidCraft
+Copyright (c) 2024 StupidCraft
